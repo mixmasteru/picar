@@ -23,3 +23,5 @@ sudo apt-get install -y lua5.1 alsa-utils
 wget https://archive.raspberrypi.org/debian/pool/main/r/raspi-config/raspi-config_20201108_all.deb
 sudo dpkg -i raspi-config_20201108_all.deb
 #if neeed sudo apt install --fix-broken
+
+sudo apt-get install ros-noetic-teleop-twist-keyboard
